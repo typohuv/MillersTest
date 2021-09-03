@@ -4,7 +4,7 @@ body{
 
 hr{
   border-style: none;
-  border-top-style: double
+  border-top-style: double;
   background-color: #ADEFD1FF;
   border-width: 3px;
 }
